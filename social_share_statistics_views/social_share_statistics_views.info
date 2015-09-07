@@ -1,0 +1,6 @@
+name = Social Share Statistics Views
+description = Enables integration of the data stored by Social Share Statistics module with views
+core = 7.x
+package = Social Share Statistics
+dependencies[] = social_share_statistics
+dependencies[] = views

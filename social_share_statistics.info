@@ -1,0 +1,5 @@
+name = Social Share Statistics module
+description = To count social media shares per user per node.
+core = 7.x
+package = Social Share Statistics
+configure = admin/config/social_share_statistics
